@@ -13,7 +13,7 @@
   <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Asafe-Csharp" height=28" width="28" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/VsCode.svg.png">
   <img align="center" alt="Asafe-Csharp" height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Apache Kafka]https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka
 </div>
 
 ## 
