@@ -1,7 +1,5 @@
 ### Hi I'm Marcelo Mascarenhas 👋
 
-<img align="right" height="180px" src="https://cdn.dribbble.com/users/220167/screenshots/2373375/resp_dribbble.gif">
-
 - 🖥️ I’m studying: Computer Science at UFMG;
 - 🔭 I’m currently working on DCC-MPMG as an invited researcher;
 
