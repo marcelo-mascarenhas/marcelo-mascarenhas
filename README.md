@@ -1,4 +1,4 @@
-### Hi I'm Marcelo Mascarenhas 👋
+### Helloo! I'm Marcelo Mascarenhas 👋
 
 - 🖥️ I’m studying: Computer Science at UFMG;
 - 🔭 I’m currently working on DCC-MPMG as an invited researcher;
