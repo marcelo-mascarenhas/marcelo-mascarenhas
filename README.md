@@ -19,8 +19,8 @@
  <img align="center" alt="MD" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
           
  <img align="center" alt="MNP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Asafe-Csharp" height="30" width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/VsCode.svg.png">
-  <img align="center" alt="Asafe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">
+  <img align="center" alt="Asafe-Csharp" height="28" width="28" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/VsCode.svg.png">
+
 
 
 ## 
