@@ -3,7 +3,7 @@
 - 🖥️ I’m studying: Computer Science at UFMG;
 - 🔭 I’m currently working on DCC-MPMG as an invited researcher;
 
-#### Languages and Working Tools...
+#### Some Languages and Working Tools...
 
 
 <div style="display: inline_block">
