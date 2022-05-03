@@ -17,7 +17,8 @@
   <img align="center" alt="MPandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   
  <img align="center" alt="MD" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-          
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg">
+         
  <img align="center" alt="MNP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
   <img align="center" alt="Asafe-Csharp" height="28" width="28" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/VsCode.svg.png">
 
